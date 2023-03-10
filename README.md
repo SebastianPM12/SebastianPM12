@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">A passionate frontend developer from Peru</h3>
+<h3 align="center">A passionate backend developer from Peru</h3>
 
-- 📫 How to reach me **colegiosebastiantorito@gmail.com**
+- 📫 How to reach me **colegiosebastiantorito@gmail.com or sebastianpintomontes2002@gmail.com**
 
 - ⚡ Fun fact **I think I am a nice person.Also, I like to play basket**
 
