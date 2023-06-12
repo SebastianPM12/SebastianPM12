@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sebastian</h1>
+<h1 align="center">Hi 👋, I'm Sebastian Pinto</h1>
 <h3 align="center">A passionate backend developer from Peru</h3>
 
 - 📫 How to reach me **colegiosebastiantorito@gmail.com or sebastianpintomontes2002@gmail.com**
