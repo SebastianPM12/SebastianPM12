@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **colegiosebastiantorito@gmail.com or sebastianpintomontes2002@gmail.com**
 
-- ⚡ Fun fact **I think I am a nice person.Also, I like to play basket**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sebastian-alonso-pinto-montes-a7722a243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastian-alonso-pinto-montes-a7722a243/" height="30" width="40" /></a>
